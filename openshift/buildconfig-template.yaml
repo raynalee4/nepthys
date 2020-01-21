@@ -65,7 +65,7 @@ parameters:
     displayName: "Thoth Nepthys git repository"
     name: GITHUB_URL
     required: true
-    value: "https://github.com/raynalee4/nepthys"
+    value: "https://github.com/raynalee4/nepthys.git"
 
   - description: "Git repository for Thoth's Nepthys Job"
     displayName: "Thoth Nepyths git reference"
